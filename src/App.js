@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="navbar">
-          <h2 className="center ">Post It</h2>
+          <h2 className="center ">Post It - Redux CRUD</h2>
         </div>
         <PostForm />
         <AllPost />
